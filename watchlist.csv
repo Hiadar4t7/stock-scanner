@@ -1,0 +1,150 @@
+symbol,name,region,currency
+AAPL,Apple,US,USD
+MSFT,Microsoft,US,USD
+NVDA,NVIDIA,US,USD
+GOOGL,Alphabet,US,USD
+AMZN,Amazon,US,USD
+META,Meta Platforms,US,USD
+AVGO,Broadcom,US,USD
+TSLA,Tesla,US,USD
+BRK-B,Berkshire Hathaway,US,USD
+JPM,JPMorgan Chase,US,USD
+V,Visa,US,USD
+MA,Mastercard,US,USD
+LLY,Eli Lilly,US,USD
+UNH,UnitedHealth,US,USD
+XOM,Exxon Mobil,US,USD
+JNJ,Johnson & Johnson,US,USD
+WMT,Walmart,US,USD
+PG,Procter & Gamble,US,USD
+HD,Home Depot,US,USD
+COST,Costco,US,USD
+ABBV,AbbVie,US,USD
+ORCL,Oracle,US,USD
+CRM,Salesforce,US,USD
+ADBE,Adobe,US,USD
+NFLX,Netflix,US,USD
+AMD,AMD,US,USD
+INTC,Intel,US,USD
+QCOM,Qualcomm,US,USD
+TXN,Texas Instruments,US,USD
+MU,Micron,US,USD
+AMAT,Applied Materials,US,USD
+LRCX,Lam Research,US,USD
+KLAC,KLA,US,USD
+ANET,Arista Networks,US,USD
+PANW,Palo Alto Networks,US,USD
+CRWD,CrowdStrike,US,USD
+NOW,ServiceNow,US,USD
+INTU,Intuit,US,USD
+SHOP,Shopify,US,USD
+UBER,Uber,US,USD
+APP,AppLovin,US,USD
+PLTR,Palantir,US,USD
+SNOW,Snowflake,US,USD
+DDOG,Datadog,US,USD
+NET,Cloudflare,US,USD
+ZS,Zscaler,US,USD
+FTNT,Fortinet,US,USD
+ADI,Analog Devices,US,USD
+MRVL,Marvell,US,USD
+DELL,Dell,US,USD
+IBM,IBM,US,USD
+CSCO,Cisco,US,USD
+ACN,Accenture,US,USD
+TSM,TSMC (ADR),US,USD
+ARM,Arm Holdings,US,USD
+MCD,McDonald's,US,USD
+SBUX,Starbucks,US,USD
+NKE,Nike,US,USD
+CMG,Chipotle,US,USD
+DIS,Disney,US,USD
+ABNB,Airbnb,US,USD
+BKNG,Booking Holdings,US,USD
+MAR,Marriott,US,USD
+TJX,TJX,US,USD
+LOW,Lowe's,US,USD
+KO,Coca-Cola,US,USD
+PEP,PepsiCo,US,USD
+PM,Philip Morris,US,USD
+TTWO,Take-Two Interactive,US,USD
+RBLX,Roblox,US,USD
+SPOT,Spotify,US,USD
+GS,Goldman Sachs,US,USD
+MS,Morgan Stanley,US,USD
+BAC,Bank of America,US,USD
+C,Citigroup,US,USD
+WFC,Wells Fargo,US,USD
+SCHW,Charles Schwab,US,USD
+BLK,BlackRock,US,USD
+AXP,American Express,US,USD
+PYPL,PayPal,US,USD
+COIN,Coinbase,US,USD
+HOOD,Robinhood,US,USD
+ISRG,Intuitive Surgical,US,USD
+ABT,Abbott,US,USD
+TMO,Thermo Fisher,US,USD
+MRK,Merck & Co,US,USD
+PFE,Pfizer,US,USD
+AMGN,Amgen,US,USD
+GILD,Gilead,US,USD
+VRTX,Vertex,US,USD
+BSX,Boston Scientific,US,USD
+NVO,Novo Nordisk (ADR),US,USD
+AZN,AstraZeneca,US,USD
+CAT,Caterpillar,US,USD
+DE,Deere,US,USD
+GE,GE Aerospace,US,USD
+GEV,GE Vernova,US,USD
+RTX,RTX,US,USD
+LMT,Lockheed Martin,US,USD
+NOC,Northrop Grumman,US,USD
+BA,Boeing,US,USD
+HON,Honeywell,US,USD
+UNP,Union Pacific,US,USD
+ETN,Eaton,US,USD
+VRT,Vertiv,US,USD
+PWR,Quanta Services,US,USD
+CVX,Chevron,US,USD
+COP,ConocoPhillips,US,USD
+CEG,Constellation Energy,US,USD
+VST,Vistra,US,USD
+NEE,NextEra Energy,US,USD
+ASML.AS,ASML,NL,EUR
+PRX.AS,Prosus,NL,EUR
+ADYEN.AS,Adyen,NL,EUR
+SAP.DE,SAP,DE,EUR
+SIE.DE,Siemens,DE,EUR
+ENR.DE,Siemens Energy,DE,EUR
+RHM.DE,Rheinmetall,DE,EUR
+ALV.DE,Allianz,DE,EUR
+MUV2.DE,Munich Re,DE,EUR
+DTE.DE,Deutsche Telekom,DE,EUR
+IFX.DE,Infineon,DE,EUR
+DBK.DE,Deutsche Bank,DE,EUR
+MBG.DE,Mercedes-Benz,DE,EUR
+BMW.DE,BMW,DE,EUR
+ADS.DE,Adidas,DE,EUR
+AIR.PA,Airbus,FR,EUR
+SAF.PA,Safran,FR,EUR
+MC.PA,LVMH,FR,EUR
+RMS.PA,Hermes,FR,EUR
+OR.PA,L'Oreal,FR,EUR
+SU.PA,Schneider Electric,FR,EUR
+TTE.PA,TotalEnergies,FR,EUR
+BNP.PA,BNP Paribas,FR,EUR
+SAN.PA,Sanofi,FR,EUR
+UCG.MI,UniCredit,IT,EUR
+ISP.MI,Intesa Sanpaolo,IT,EUR
+SAN.MC,Banco Santander,ES,EUR
+IBE.MC,Iberdrola,ES,EUR
+ITX.MC,Inditex,ES,EUR
+NESN.SW,Nestle,CH,CHF
+ROG.SW,Roche,CH,CHF
+NOVN.SW,Novartis,CH,CHF
+UBSG.SW,UBS,CH,CHF
+SHEL.L,Shell,UK,GBp
+HSBA.L,HSBC,UK,GBp
+ULVR.L,Unilever,UK,GBp
+RR.L,Rolls-Royce,UK,GBp
+BA.L,BAE Systems,UK,GBp

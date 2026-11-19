@@ -1,0 +1,40 @@
+name: Daily data robot
+
+on:
+  schedule:
+    # 08:35 UTC = 09:35 Berlin in winter, 10:35 in summer (Mon-Fri).
+    - cron: "35 8 * * 1-5"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-scan
+  cancel-in-progress: false
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install
+        run: pip install -r requirements.txt
+
+      - name: Run scan
+        run: python scan.py
+
+      - name: Save data
+        run: |
+          git config user.name "stock-robot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          git commit -m "Scan data $(date -u +%F)" || echo "No changes"
+          git pull --rebase
+          git push
