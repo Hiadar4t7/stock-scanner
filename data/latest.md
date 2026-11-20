@@ -1,17 +1,17 @@
-# Daily scan data - 2026-11-18
-Generated 2026-11-19T12:57:25+00:00 UTC. Market weather: **RED**.
+# Daily scan data - 2026-11-19
+Generated 2026-11-20T17:09:35+00:00 UTC. Market weather: **RED**.
 
 | # | Stock | Score | Strategy | Entry | Stop | Target | R:R | Eligible |
 |---|---|---|---|---|---|---|---|---|
-| 1 | CVX Chevron | 15/20 | 4 | 205.88 | 195.365 | 221.126 | 1.4499 | False |
-| 2 | COP ConocoPhillips | 15/20 | 4 | 134.4 | 126.2355 | 142.6725 | 1.0132 | False |
-| 3 | ITX.MC Inditex | 14/20 | 2 | 61.104 | 57.4223 | 69.244 | 2.2109 | False |
-| 4 | XOM Exxon Mobil | 14/20 | 4 | 160.58 | 151.7879 | 173.348 | 1.4522 | False |
-| 5 | SHEL.L Shell | 14/20 | 4 | 3595.5 | 3438.3219 | 3816.05 | 1.4032 | False |
-| 6 | SAP.DE SAP | 14/20 | 4 | 193.92 | 181.7834 | 210.591 | 1.3736 | False |
-| 7 | ACN Accenture | 14/20 | 4 | 227.49 | 208.0133 | 251.312 | 1.2231 | False |
-| 8 | PLTR Palantir | 14/20 | 4 | 156.67 | 139.5221 | 176.6135 | 1.163 | False |
-| 9 | PFE Pfizer | 11/20 | 4 | 28.06 | 26.7207 | 29.592 | 1.1439 | False |
+| 1 | PANW Palo Alto Networks | 14/20 | 3 | 361.73 | 348.4929 | 394.8229 | 2.5 | False |
+| 2 | SAP.DE SAP | 14/20 | 4 | 187.02 | 174.596 | 209.1745 | 1.7832 | False |
+| 3 | XOM Exxon Mobil | 14/20 | 4 | 158.93 | 150.2701 | 172.383 | 1.5535 | False |
+| 4 | SHEL.L Shell | 14/20 | 4 | 3574.5 | 3421.9775 | 3800.35 | 1.4808 | False |
+| 5 | ACN Accenture | 13/20 | 4 | 218.58 | 198.5131 | 249.304 | 1.5311 | False |
+| 6 | SHOP Shopify | 13/20 | 4 | 131.97 | 115.7695 | 152.1325 | 1.2446 | False |
+| 7 | PFE Pfizer | 11/20 | 4 | 27.54 | 26.2078 | 29.448 | 1.4322 | False |
+| 8 | MRK Merck & Co | 11/20 | 4 | 132.81 | 123.7654 | 144.933 | 1.3404 | False |
+| 9 | PM Philip Morris | 9/20 | 4 | 186.43 | 175.8081 | 199.9895 | 1.2766 | False |
 
 Errors: 1
 - no price data: ROG.SW
