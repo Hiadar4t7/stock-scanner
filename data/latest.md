@@ -1,5 +1,5 @@
 # Daily scan data - 2026-11-20
-Generated 2026-11-23T10:30:52+00:00 UTC. Market weather: **RED**.
+Generated 2026-11-23T20:28:18+00:00 UTC. Market weather: **RED**.
 
 | # | Stock | Score | Strategy | Entry | Stop | Target | R:R | Eligible |
 |---|---|---|---|---|---|---|---|---|
