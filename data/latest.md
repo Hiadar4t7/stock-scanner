@@ -1,15 +1,14 @@
-# Daily scan data - 2026-11-23
-Generated 2026-11-24T19:39:14+00:00 UTC. Market weather: **RED**.
+# Daily scan data - 2026-11-24
+Generated 2026-11-25T18:47:03+00:00 UTC. Market weather: **RED**.
 
 | # | Stock | Score | Strategy | Entry | Stop | Target | R:R | Eligible |
 |---|---|---|---|---|---|---|---|---|
-| 1 | SHEL.L Shell | 15/20 | 4 | 3567.0 | 3408.7819 | 3755.8 | 1.1933 | False |
-| 2 | TTE.PA TotalEnergies | 15/20 | 4 | 77.49 | 74.0655 | 81.133 | 1.0638 | False |
-| 3 | PANW Palo Alto Networks | 14/20 | 3 | 353.43 | 348.4335 | 365.9212 | 2.5 | False |
-| 4 | JNJ Johnson & Johnson | 13/20 | 1 | 273.0585 | 263.1814 | 290.25 | 1.7406 | False |
-| 5 | AIR.PA Airbus | 12/20 | 1 | 196.877 | 188.5225 | 212.8 | 1.9059 | False |
-| 6 | PFE Pfizer | 11/20 | 4 | 27.4 | 26.0976 | 29.197 | 1.3798 | False |
-| 7 | ALV.DE Allianz | 8/20 | 1 | 458.9731 | 447.3771 | 479.1 | 1.7357 | False |
+| 1 | SAN.PA Sanofi | 17/20 | 3 | 93.58 | 87.5173 | 108.7368 | 2.5 | False |
+| 2 | SHEL.L Shell | 15/20 | 4 | 3552.0 | 3399.0117 | 3737.025 | 1.2094 | False |
+| 3 | PANW Palo Alto Networks | 14/20 | 3 | 352.99 | 348.4937 | 364.2307 | 2.5 | False |
+| 4 | NESN.SW Nestle | 12/20 | 2 | 88.8722 | 83.6609 | 100.0522 | 2.1454 | False |
+| 5 | TTWO Take-Two Interactive | 11/20 | 3 | 220.41 | 209.2427 | 248.3284 | 2.5 | False |
+| 6 | ALV.DE Allianz | 7/20 | 1 | 459.0435 | 447.8901 | 479.1 | 1.7982 | False |
 
 Errors: 1
 - no price data: ROG.SW
