@@ -2,8 +2,9 @@ name: Daily data robot
 
 on:
   schedule:
-    # 08:35 UTC = 09:35 Berlin in winter, 10:35 in summer (Mon-Fri).
-    - cron: "35 8 * * 1-5"
+    # Backup timer only: the Daily Stock Scan starts this robot itself at ~07:27 Berlin.
+    # 05:17 UTC = 06:17 Berlin in winter, 07:17 in summer (Mon-Fri). GitHub may start it late.
+    - cron: "17 5 * * 1-5"
   workflow_dispatch: {}
 
 permissions:
